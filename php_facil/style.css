@@ -1,0 +1,23 @@
+body{
+font-family: 'Roboto Condensed', sans-serif;
+background-color: #d3d3d3;
+margin: 
+}
+
+h1{
+	background-color: black;
+	color: white;
+	padding: 15px;
+}
+.imgXammp{
+	width: 25%;
+	margin: 10px;
+}
+
+.imgXammp2{
+	width: 10%;
+}
+
+.imgInline{
+	display: inline;
+}
